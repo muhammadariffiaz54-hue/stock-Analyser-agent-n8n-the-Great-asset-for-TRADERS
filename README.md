@@ -1,4 +1,4 @@
-Honest limitations worth stating in your README too
+Honest limitations worth stating in our README for your
 
 It's an alerting/analysis aid, not a signal-guarantee system — false positives are inherent to any rule-based screen.
 Value depends entirely on the quality of the underlying data source and the soundness of the analysis logic, not the automation layer itself.
